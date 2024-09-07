@@ -1,7 +1,7 @@
 # Hi, I'm DaveNguyen!
 Welcome to my GitHub page!
 
-## My Contact 
+# My Contact 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/davenguyencrp) 
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/devnguyencrp)
 
